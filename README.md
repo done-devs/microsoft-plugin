@@ -1,2 +1,2 @@
-# microsoft-plugin
-Microsoft To DO plugin for Done
+# Microsoft To Do Plugin
+Microsoft To Do plugin for Done
